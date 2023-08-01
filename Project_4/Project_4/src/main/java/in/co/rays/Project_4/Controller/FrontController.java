@@ -21,7 +21,7 @@ import in.co.rays.Project_4.Utility.ServletUtility;
  * calling any application controller. It prevents any user to access
  * application without login.
  * 
- * @author Darshan
+ * @author sunidhi johri
  *
  */
 @WebFilter(filterName = "FrontCtl", urlPatterns = { "/ctl/*", "/doc/*" })
