@@ -2,7 +2,7 @@ package in.co.rays.Project_4.Utility;
 
 /**
  * Contains Email Message.
- * @author Darshan
+ * @author  sunidhi johri
  *
  */
 public class EmailMessage {
