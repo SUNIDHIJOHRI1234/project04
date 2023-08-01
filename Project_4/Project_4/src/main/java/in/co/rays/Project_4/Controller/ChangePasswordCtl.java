@@ -23,7 +23,7 @@ import in.co.rays.Project_4.Utility.ServletUtility;
 
 /**
  * The Class ChangePasswordCtl.
- * @author Darshan
+ * @author sunidhi johri
  *
  */
 @WebServlet(name = "ChangePasswordCtl", urlPatterns = { "/ctl/ChangePasswordCtl" })
