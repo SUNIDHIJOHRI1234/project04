@@ -23,7 +23,7 @@ import in.co.rays.Project_4.Utility.ServletUtility;
 
 /**
  * Servlet implementation class LoginCtl
- * @author Darshan
+ * @author sunidhi johri
  *
  */
 @WebServlet(name = "LoginCtl", urlPatterns = { "/LoginCtl" })
