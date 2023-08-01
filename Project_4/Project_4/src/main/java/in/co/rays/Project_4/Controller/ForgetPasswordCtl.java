@@ -22,7 +22,7 @@ import in.co.rays.Project_4.Utility.ServletUtility;
 /**
  * Forget Password functionality Controller. Performs operation for Forget
  * Password
- * @author Darshan
+ * @author sunidhi johri
  *
  */
 @WebServlet(name = "ForgetPasswordCtl", urlPatterns = { "/ForgetPasswordCtl" })
