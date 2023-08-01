@@ -13,7 +13,7 @@ import in.co.rays.Project_4.Exception.ApplicationException;
 
 /**
  * Email Utility provides Email Services.
- * @author Darshan
+ * @author  sunidhi johri
  *
  */
 public class EmailUtility {
