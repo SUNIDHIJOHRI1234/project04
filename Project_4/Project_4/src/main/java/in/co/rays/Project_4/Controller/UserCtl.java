@@ -24,7 +24,7 @@ import in.co.rays.Project_4.Utility.ServletUtility;
 
 /**
  * The Class UserCtl.
- * @author Darshan
+ * @author sunidhi johri
  * 
  *
  */
