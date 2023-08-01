@@ -23,7 +23,7 @@ import in.co.rays.Project_4.Utility.ServletUtility;
  * User List functionality Controller. Performs operation for list, search and
  * delete operations of User
  * 
- * @author Darshan
+ * @author sunidhi johri
  *
  */
 @WebServlet(name = "UserListCtl", urlPatterns = { "/ctl/UserListCtl" })
